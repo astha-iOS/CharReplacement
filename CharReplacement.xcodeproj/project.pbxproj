@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		076B2C1D25A4DAC200C5A386 /* CharReplacement */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CharReplacement; sourceTree = BUILT_PRODUCTS_DIR; };
 		076B2C2025A4DAC200C5A386 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		076B2C2825A4DD2300C5A386 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		076B2C1425A4DAC200C5A386 = {
 			isa = PBXGroup;
 			children = (
+				076B2C2825A4DD2300C5A386 /* readme.md */,
 				076B2C1F25A4DAC200C5A386 /* CharReplacement */,
 				076B2C1E25A4DAC200C5A386 /* Products */,
 			);
